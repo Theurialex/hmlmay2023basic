@@ -1,0 +1,24 @@
+li{
+    float: left;
+    text-decoration: gold;
+    text-align: center;
+    display: block;
+}
+li,a{
+    padding: 20px;
+}
+li,a:hover{
+    color: coral;
+}
+.fruits{
+    text-align: center;
+    border: 2px solid red;
+    margin: 15px;
+    padding: 15px;
+}
+.FRUITS{
+    text-align: center;
+    border: 2px solid blue;
+    margin: 15px;
+    padding: 15px;
+}
