@@ -22,3 +22,30 @@ li,a:hover{
     margin: 15px;
     padding: 15px;
 }
+#fruits{
+    text-align: center;
+    border: 2px solid blue;
+    margin: 15px;
+    padding: 15px;
+    font-family: Ani;
+}
+#chevrolet{
+        text-align: center;
+    border: 2px solid red;
+    margin: 15px;
+    padding: 15px;
+    font-family: "Century Schoolbook L";
+}
+#nissan{
+    text-align: center;
+    border: 2px solid burlywood;
+    margin: 15px;
+    padding: 15px;
+    font-family: "Fira Code";
+}
+#fruits,h2{
+    font-family: Ani;
+}
+
+
+
